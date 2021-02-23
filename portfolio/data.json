@@ -1,0 +1,16 @@
+{
+    "NAME": "Abhishek Bauriya",
+    "ABOUT_ME": "Abhishek has worked with exam preparation blog, education portals, and developed some wordpress blogs.",
+    "LANGUAGES": [
+        "Python",
+        "HTML",
+        "CSS",
+        "JavaScript"
+    ],
+    "PROJECTS": [
+        ["filter_drama", "Google", "Google is an amazing search engine"],
+        ["place", "Youtube", "The best online watching videos platform"],
+        ["whatshot", "Instagram", "It is an online selfie sharing site"]
+    ]
+}
+
